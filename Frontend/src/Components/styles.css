@@ -1,0 +1,110 @@
+.navtabs
+{
+    border: 1px solid lightgray;
+    height:120px;
+    background-color:maroon;
+    width: 100%;
+}
+
+.navtabs .nav-link {
+    color: maroon; /* Default text color */
+    background-color:rgb(250, 145, 196);
+    font-size: large;
+    transition: background-color 0.3s, color 0.3s;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.navtabs .nav-link:hover{
+    color: white;
+}
+
+.loginpage
+{
+  border:1px solid greenyellow;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 700px;
+  width: 430px;
+  height: 600px;
+  padding: 20px;
+  margin-top: -320px;
+  background-color:rgb(146, 212, 80);
+}
+.butns
+{
+    margin-left: 50px;
+}
+.reg
+{
+    width: 1300px;
+    margin: 20px;
+    border:1px solid lightgray;
+    padding: 20px;
+    border-radius: 20px;
+    height:770px;
+}
+.btndiv
+{
+    margin-left: 30px;
+}
+.addcolg
+{
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px;
+    height:250px;
+}
+.dispcolg
+{
+    margin-left: 600px;
+    margin-top: -30px;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+}
+.addcours
+{
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px;
+    height:250px;
+}
+.displycours
+{
+    margin-left: 600px;
+    margin-top: -250px;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+}
+.addcategory
+{
+    border-radius: 20px;
+    padding: 20px;
+    width: 500px;
+    margin: 20px;
+    height:250px;
+}
+.displaycategory
+{
+    margin-left: 600px;
+    margin-top: -250px;
+    border-radius: 20px;
+    width: 300px;
+    height: 250px;
+}
+.card-hover {
+    transition: box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.card-hover:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3); /* Shadow effect */
+}
+.btns
+{
+    text-align: center;
+}
